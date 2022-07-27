@@ -1,0 +1,22 @@
+/* heading  */
+
+.bigHeading {
+    font-family: 'Montserrat-Black', sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    font-weight: bold;
+}
+
+.midHeading {
+    font-family: 'Ubuntu', sans-serif;
+    line-height: 1.5;
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+.smallHeading {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    line-height: 1.5;
+    font-weight: 400;
+}
